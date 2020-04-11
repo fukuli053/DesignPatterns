@@ -29,3 +29,7 @@ public class WeatherStation implements Observable {
         return 53;   //Sıcaklık sensöründen gelen örnek değer.
     }
 }
+
+    A way of passing a request between a chain of objects
+        Encapsulate a command request as an object
+
