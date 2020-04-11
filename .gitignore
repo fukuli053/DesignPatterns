@@ -21,3 +21,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.DS_Store
+.idea/description.html
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/project-template.xml
+.idea/vcs.xml
+.DS_Store
+StrategyPattern/.idea/description.html
+StrategyPattern/.idea/encodings.xml
+StrategyPattern/.idea/misc.xml
+StrategyPattern/.idea/modules.xml
+StrategyPattern/.idea/project-template.xml
+StrategyPattern/.idea/uiDesigner.xml
+StrategyPattern/.idea/vcs.xml

@@ -28,7 +28,7 @@
 - Null Object
 - [Observer](https://github.com/fukuli053/DesignPatterns/tree/master/ObserverPattern)
 - State
-- Strategy
+- [Strategy](https://github.com/fukuli053/DesignPatterns/tree/master/StrategyPattern)
 - Template method
 - Visitor
 
