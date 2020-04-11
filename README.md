@@ -26,7 +26,7 @@
 - Mediator
 - Memento
 - Null Object
-- [Observer]()
+- [Observer](https://github.com/fukuli053/DesignPatterns/tree/master/ObserverPattern)
 - State
 - Strategy
 - Template method
