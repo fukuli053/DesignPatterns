@@ -16,8 +16,9 @@ Diyelim ki var olan bir nesnenin sınıfına müdahale etmeden, yeni bir method 
 Bir örnekle açıklayalım. Var olan nesnemizi starbucks'tan aldığımız kahve olarak düşünelim. Ekstra olarak barista bize süt, şeker ve aroma eklemek istiyor muyuz diye soruyor. Her birini ayrı ayrı kahve sınıfından türettiğimizi düşünürsek bakalım nasıl bir yapı ortaya çıkıyor: 
 ![alt text](https://i.hizliresim.com/TzabLI.png)
 
-##Çözüm
+## Çözüm
 Beverage(İçecek)
 
 AddonDecorator(İçecek Eklentimiz) - Decarator Sınıfımız. İstediğimiz her özelliği decarator sınıfı sayesinde esnek şekilde içeceğimize kazandırabiliyoruz.
+
 ![alt text](https://i.hizliresim.com/ZaX2bF.png)
