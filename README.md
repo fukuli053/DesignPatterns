@@ -3,7 +3,7 @@
 ## Creational design patterns
 - Abstract Factory
 - Builder
-- Factory Method
+- [Factory Method](https://github.com/fukuli053/DesignPatterns/tree/master/FactoryPattern)
 - Object Pool
 - Prototype
 - Singleton
