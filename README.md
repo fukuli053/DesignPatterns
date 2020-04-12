@@ -12,7 +12,7 @@
 - Adapter
 - Bridge
 - Composite
-- Decorator
+- [Decorator](https://github.com/fukuli053/DesignPatterns/tree/master/DecoratorPattern)
 - Facade
 - Flyweight
 - Private Class Data

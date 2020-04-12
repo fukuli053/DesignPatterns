@@ -1,0 +1,7 @@
+package com.furkanergun;
+
+abstract class Beverage {
+    public abstract String getDesc();
+
+    public abstract int cost();
+}
